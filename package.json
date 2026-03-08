@@ -1,0 +1,24 @@
+{
+  "name": "note-app-serverless",
+  "version": "1.0.0",
+  "description": "git@github.com:khanhhuy130295/note-app-serverless.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanhhuy130295/note-app-serverless.git"
+  },
+  "keywords": [
+    "aws",
+    "s3",
+    "serverless"
+  ],
+  "author": "huy-dhk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khanhhuy130295/note-app-serverless/issues"
+  },
+  "homepage": "https://github.com/khanhhuy130295/note-app-serverless#readme"
+}
